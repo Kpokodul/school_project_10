@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Yeseva+One&display=swap');
+
+body {
+    background-color: #F4F4F4;
+    font-family: "Yeseva One", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #1A1C20;
+}
+
+h1 {
+    font-size: 60px;
+}
+
+h5 {
+    background-color: #1A1C20;
+    color: #F4F4F4;
+    padding: 10px;
+    margin-top: 15px;
+    width: fit-content;
+}
+
+h6 {
+    background-color: #F0A500;
+    color: #CF7500;
+    padding: 5px;
+    margin-bottom: 5px;
+    width: fit-content;
+}
+
+.btn-book {
+    color: #CF7500;
+    background-color: #F0A500;
+    border-color: #CF7500;
+    border-width: 0px;
+    margin: 5px;
+}
+.btn-book:hover {
+    color: #CF7500;
+    background-color: #F0A500;
+    border-color: #CF7500;
+    border-width: 5px;
+    margin: 0px;
+}
+.text-small {
+    padding-left: 25px;
+    font-size: 13px;
+}
